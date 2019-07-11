@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/universal/api-Eureka/api-Eureka.iml" filepath="$PROJECT_DIR$/universal/api-Eureka/api-Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-common/api-common.iml" filepath="$PROJECT_DIR$/universal/api-common/api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-model/api-model.iml" filepath="$PROJECT_DIR$/universal/api-model/api-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-oauth/api-oauth.iml" filepath="$PROJECT_DIR$/universal/api-oauth/api-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-raise/api-raise.iml" filepath="$PROJECT_DIR$/universal/api-raise/api-raise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-ticket/api-ticket.iml" filepath="$PROJECT_DIR$/universal/api-ticket/api-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-user/api-user.iml" filepath="$PROJECT_DIR$/universal/api-user/api-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-zipkin/api-zipkin.iml" filepath="$PROJECT_DIR$/universal/api-zipkin/api-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/api-zuul/api-zuul.iml" filepath="$PROJECT_DIR$/universal/api-zuul/api-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/elastic-job/elastic-job.iml" filepath="$PROJECT_DIR$/universal/elastic-job/elastic-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-aritifact.iml" filepath="$PROJECT_DIR$/.idea/springcloud-aritifact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/transaction-springcloud/transaction-springcloud.iml" filepath="$PROJECT_DIR$/universal/transaction-springcloud/transaction-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/tx-manager/tx-manager.iml" filepath="$PROJECT_DIR$/universal/tx-manager/tx-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universal/universal.iml" filepath="$PROJECT_DIR$/universal/universal.iml" />
+    </modules>
+  </component>
+</project>
